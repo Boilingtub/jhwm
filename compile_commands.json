@@ -1,0 +1,24 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-Werror",
+      "-I.",
+      "-DWLR_USE_UNSTABLE",
+      "-I/usr/local/include",
+      "-I/usr/include/libdrm",
+      "-I/usr/include/pixman-1",
+      "-I/usr/local/include",
+      "-I/usr/include/libdrm",
+      "-I/usr/include/pixman-1",
+      "-o",
+      "jewl",
+      "jewl.c"
+    ],
+    "directory": "/home/hendrik/Coding-Projects/C/Wayland-jewl",
+    "file": "/home/hendrik/Coding-Projects/C/Wayland-jewl/jewl.c",
+    "output": "/home/hendrik/Coding-Projects/C/Wayland-jewl/jewl"
+  }
+]
